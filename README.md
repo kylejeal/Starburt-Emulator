@@ -1,4 +1,6 @@
-Starburt-Emulator
+Starburt Emulator
 =================
 
-A Habbo Emulator coded in Java 
+A Habbo Emulator coded in Java
+
+This will be uploaded later.
